@@ -1,0 +1,23 @@
+- Public Selfhost:
+    - My Page:
+        href: https://siyahsensei.com/
+    - Vaultwarden:
+        href: https://vault.siyahsensei.com/
+    - Nextcloud:
+        href: https://cloud.siyahsensei.com/
+    - Blog:
+        href: https://blog.siyahsensei.com/
+
+- Private Selfhost:
+    - Jellyfin:
+        href: https://jellyfin.local.siyahsensei.com/
+    - Deluge:
+        href: https://deluge.local.siyahsensei.com/
+    - AdGuard Home:
+        href: https://adguardhome.local.siyahsensei.com/
+
+- Wallety:
+    - Wallet UI:
+        href: http://wallety.siyahsensei.com/
+    - Wallet Service:
+        href: http://wallet-service.siyahsensei.com/
